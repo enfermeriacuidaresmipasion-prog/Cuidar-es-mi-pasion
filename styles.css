@@ -676,4 +676,11 @@ width:55px;
 height:55px;
 }
 
+}.imagen-enfermera{
+    width: 100%;
+    max-width: 450px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+    display: block;
+    margin: 20px auto;
 }
